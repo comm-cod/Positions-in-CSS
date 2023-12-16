@@ -1,0 +1,5 @@
+Difference between Absolute and Relative:-
+The first visible difference between them is related to the syntax.
+[1] One uses "position: absolute;" while the other uses "position: relative;"
+[2] In position absolute the element can be moved to top, bottom, right and left with relative positioning while in position relative an element is positioned relative to its nearest elements.
+[3] position absolute do not break any normal document flow while in position relative, it will break the normal document.
